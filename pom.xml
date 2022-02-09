@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>facebook Snapshot Nexus Repository </name>
-	      <url>http://3.110.48.76:9980/prasannamani/repository/facebook-snapshot/</url>
+	      <url>http://3.108.238.143:9980/prasannamani/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
